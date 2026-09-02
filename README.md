@@ -1,17 +1,21 @@
 # anying
 
-贡献社区。/ Contribute.
+Contribute to community.
 
-**做过:**
-- [myanyagent](https://github.com/anyingiit/myanyagent) — agent 的 git 认证
-- [crawl4ai-mcp](https://github.com/anyingiit/crawl4ai-mcp) — 网页 → LLM
-- [Jpos-glue](https://github.com/anyingiit/Jpos-glue) — 金融报文
-- [ow-ahehn](https://github.com/anyingiit/ow-ahehn) — 守望先锋工坊
+**Built:**
+- [myanyagent](https://github.com/anyingiit/myanyagent) — git-auth for agents
+- [crawl4ai-mcp](https://github.com/anyingiit/crawl4ai-mcp) — web → LLM
+- [Jpos-glue](https://github.com/anyingiit/Jpos-glue) — jPOS glue
+- [ow-ahehn](https://github.com/anyingiit/ow-ahehn) — Overwatch workshop
 
 `Go` `TypeScript` `Python` `Java` `C++`
 
-**下一步:**
-- 重构博客 — 动态、有意思,适配 AI 时代
-- 整理个人数据 → 充实博客
+**Next:**
+- Rebuild my blog — dynamic, fun, AI-era
+- Consolidate personal data → feed the blog
 
-**联系:** [博客](https://blog.anyingiit.com) · [个人站](https://anyingiit.github.io) · [GitHub](https://github.com/anyingiit)
+**Reach:** [blog](https://blog.anyingiit.com) · [site](https://anyingiit.github.io) · [GitHub](https://github.com/anyingiit)
+
+---
+
+[中文版本](README.zh-CN.md)
