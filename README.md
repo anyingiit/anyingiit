@@ -3,6 +3,7 @@
 Contribute to community.
 
 **Built:**
+- [chefs-pick-oss-starter](https://github.com/anyingiit/chefs-pick-oss-starter) — OSS repo template
 - [myanyagent](https://github.com/anyingiit/myanyagent) — git-auth for agents
 - [crawl4ai-mcp](https://github.com/anyingiit/crawl4ai-mcp) — web → LLM
 - [Jpos-glue](https://github.com/anyingiit/Jpos-glue) — jPOS glue
