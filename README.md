@@ -12,7 +12,7 @@ Software engineer · AI applications & backend · Go / Java / TypeScript / Pytho
 - Earlier: [myanyagent](https://github.com/anyingiit/myanyagent) (GitHub App auth for AI agents), [crawl4ai-mcp](https://github.com/anyingiit/crawl4ai-mcp) (web → LLM MCP server)
 - Just for fun: [ow-ahehn](https://github.com/anyingiit/ow-ahehn) — a hit-list game mode I built in the Overwatch Workshop
 
-**Writing:** [66k lines of code, 2 posts: my blog postmortem](https://douseful.eu.org/en/posts/blog-postmortem/) ([中文](https://douseful.eu.org/posts/blog-postmortem/))
+**Writing:** [66k lines of code, 2 posts: my blog postmortem](https://douseful.eu.org/en/posts/blog-postmortem/)
 
 **Reach:** [blog](https://douseful.eu.org/en/) · [GitHub](https://github.com/anyingiit)
 
